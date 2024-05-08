@@ -178,17 +178,3 @@ main {
     width: 100%;
   }
 }
-@media (max-width: 425px) {
-  main {
-    padding: 15% 0;
-  }
-  .container .profile-data .info img{
-    margin-bottom: 20px;
-  }
-  .container .profile-data .info img,
-  .container .profile-data .info .data
-  {
-    width: 100%;
-    padding: 0;
-  }
-}
