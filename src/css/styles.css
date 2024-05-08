@@ -11,7 +11,7 @@ img {
 }
 
 body {
-  background-color:#24292e;
+  background: linear-gradient(120deg, #070E20, #0D224F, #0A1735);
   font-family: "Kumbh Sans", sans-serif;
   text-align: center;
   padding-bottom: 100px;
